@@ -1,0 +1,9 @@
+export const merchant_id = '368006';
+export const currency = 'TL';
+export const payment_type = 'card';
+export const installment_count = 0;
+export const non_3d = 0;
+export const merchant_ok_url = 'https://almanrobot.com/success';
+export const merchant_fail_url = 'https://almanrobot.com/fail';
+export const test_mode = '0';
+export const debug_on = 0;

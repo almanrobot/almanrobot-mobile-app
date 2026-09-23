@@ -1,0 +1,8 @@
+{
+	"name": "almanrobot",
+	"displayName": "almanrobot",
+	"react-native-google-mobile-ads": {
+		"android_app_id": "ca-app-pub-4944283165858692~6953356317",
+		"ios_app_id": "ca-app-pub-4944283165858692~6681306842"
+	}
+}
